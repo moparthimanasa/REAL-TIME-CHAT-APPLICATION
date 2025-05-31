@@ -41,6 +41,7 @@ This is the frontend part of the application.
   - `index.js` - Entry point of the React app.
   - `App.css` / `index.css` - Styling.
   - App.test.js
+  - logo.svg   -for logo
 - `package.json` - Contains project dependencies and scripts.
 
 ### `server/`
