@@ -1,5 +1,17 @@
 # REAL-TIME-CHAT-APPLICATION
 
+COMPANY  : CODTECH IT SOLUTIONS
+
+NAME     : MOPARTHI MANASA
+
+INTERN ID: CT08DM984
+
+DOMAIN   : MERN STACK WEB DEVELOPMENT
+
+DURATION : 8 WEEKS
+
+MENTOR   : NEELA SANTOSH
+
 # Description
 
 This is a **Mern-stack real-time chat application** built using **React** for the frontend and **Node.js with Socket.IO** for the backend. The application allows users to send and receive messages instantly, demonstrating the use of WebSocket technology for live communication.The frontend offers a responsive interface built with React components, while the backend handles message broadcasting using Express and Socket.IO. Although MongoDB isn’t fully integrated yet, the project is structured to support it, making it easy to add features like message storage or user management in the future.
