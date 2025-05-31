@@ -57,26 +57,31 @@ This contains the backend code.
 Follow these steps to set up the project locally.
 
 ### Prerequisites:
+
 - Node.js installed
 - npm or yarn package manager
+- 
+### 1. Clone the Repository
 
-
-
-
-
-
+``bash
+git clone 
 
 ### Backend Setup (Node.js + Socket.IO)
 
 cd server
+
 npm install     # Install backend dependencies
+
 node index.js   # Start the backend server
 
 # 🌐 Frontend Setup (React)
 
 cd client
+
 npm install     # Install frontend dependencies
+
 npm start       # Start the React development server
+
 The frontend will start on: http://localhost:3000
 
 # ✅ Test the App
@@ -88,6 +93,7 @@ Open another tab or window to simulate a second user.
 Start chatting in real-time!
 
 # 💬 How It Works
+
 When a user sends a message through the React frontend, it emits a chat message event via Socket.IO.
 
 The Node.js server listens for this event and broadcasts the message to all connected clients.
