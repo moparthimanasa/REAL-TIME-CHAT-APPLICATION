@@ -60,17 +60,20 @@ Follow these steps to set up the project locally.
 - Node.js installed
 - npm or yarn package manager
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/realtime-chat-app.git
 
-## Backend Setup (Node.js + Socket.IO)
+
+
+
+
+### Backend Setup (Node.js + Socket.IO)
+
 cd server
 npm install     # Install backend dependencies
 node index.js   # Start the backend server
 
 # 🌐 Frontend Setup (React)
+
 cd client
 npm install     # Install frontend dependencies
 npm start       # Start the React development server
