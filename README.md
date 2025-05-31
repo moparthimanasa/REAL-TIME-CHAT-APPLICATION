@@ -145,10 +145,12 @@ User online/offline status
 
 # Output
 
-example chat conversation between two friends in real-time chat application,
+Below is an example of a real-time chat conversation between two friends using the application:
 
-from friend1(Let it be Geetha) side "who starts the conversation"
+Chat from Friend 1 (Geetha) – who initiates the conversation:
 
 ![Image](https://github.com/user-attachments/assets/1a1d45c3-7f3b-4820-b154-c05760abe809)
 
-from friend2(Let it be Seetha) side 
+chat form friend2(Seetha):
+
+![Image](https://github.com/user-attachments/assets/2b049bdc-0309-4447-983e-21ccd5c000fe)
