@@ -14,9 +14,7 @@ MENTOR   : NEELA SANTOSH
 
 # Description
 
-This is a **Mern-stack real-time chat application** built using **React** for the frontend and **Node.js with Socket.IO** for the backend. The application allows users to send and receive messages instantly, demonstrating the use of WebSocket technology for live communication.The frontend offers a responsive interface built with React components, while the backend handles message broadcasting using Express and Socket.IO. Although MongoDB isn’t fully integrated yet, the project is structured to support it, making it easy to add features like message storage or user management in the future.
-
-
+This is a **Mern-stack real-time chat application** built using **React** for the frontend and **Node.js with Socket.IO** for the backend. The application allows users to send and receive messages instantly, demonstrating the use of WebSocket technology for live communication.The frontend offers a responsive interface built with React components, while the backend handles message broadcasting using Express and Socket.IO.
 
 ## 🚀 Features
 
@@ -144,3 +142,13 @@ Typing indicators
 Private messaging or chat rooms
 
 User online/offline status
+
+# Output
+
+example chat conversation between two friends in real-time chat application,
+
+from friend1(Let it be Geetha) side "who starts the conversation"
+
+![Image](https://github.com/user-attachments/assets/1a1d45c3-7f3b-4820-b154-c05760abe809)
+
+from friend2(Let it be Seetha) side 
