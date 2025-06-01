@@ -147,10 +147,10 @@ User online/offline status
 
 Below is an example of a real-time chat conversation between two friends using the application:
 
-# Chat from Friend 1 (Geetha) – who initiates the conversation:
+**Chat from Friend 1 (Geetha) – who initiates the conversation:**
 
 ![Image](https://github.com/user-attachments/assets/1a1d45c3-7f3b-4820-b154-c05760abe809)
 
-# chat form friend2(Seetha):
+**chat form friend2(Seetha):**
 
 ![Image](https://github.com/user-attachments/assets/2b049bdc-0309-4447-983e-21ccd5c000fe)
